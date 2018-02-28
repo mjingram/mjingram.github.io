@@ -1,0 +1,122 @@
+h1, h2, h3, h4, h5, h6 {
+    font-family: 'Indie Flower' !important;
+}
+p, div {
+    font-family: 'Indie Flower' !important;
+}
+#jumb{
+  background-color: #262626
+
+}
+#spiral{
+
+}
+#name{
+  color: white
+
+}
+#subHead{
+  color: white
+
+}
+body{
+  /*background: gray;*/
+  background: url(https://static.pexels.com/photos/355887/pexels-photo-355887.jpeg);
+  background-repeat:no-repeat;
+}
+
+
+
+#homebut{
+  color: white;
+}
+
+
+#jumb2{
+  background-color: #262626
+
+}
+#line-chart{
+  background-color: #262626;
+
+
+}
+#contain{
+  height: 800x;
+
+  font-family: 'Indie Flower' cursive;
+
+}
+#about{
+  color: white
+}
+#emailH2{
+  color: white
+}
+
+#phoneH2{
+  color: white;
+}
+#locationH2{
+  color: white
+}
+#statConsulLI{
+  font-size: 1.25em;
+  font-weight: bold;
+}
+
+#cplusplusLI{
+  font-size: 1.25em;
+  font-weight: bold;
+}
+
+#pythonWarLI{
+  font-size: 1.25em;
+  font-weight: bold;
+}
+
+#jsConnectLI{
+  font-size: 1.25em;
+  font-weight: bold;
+}
+
+#jsTicTacLI{
+  font-size: 1.25em;
+  font-weight: bold;
+}
+
+#nameLabel{
+  color: white;
+  font-size: 2em;
+
+
+}
+#nameInput{
+  font-size: 1.25em;
+  font-weight: bold;
+  height: 50px;
+}
+
+#emailLabel{
+  color: white;
+  font-size: 2em;
+}
+
+#InputEmail1{
+  font-size: 1.25em;
+  font-weight: bold;
+  height: 50px;
+}
+#messageLabel{
+  color:white;
+  font-size: 2em;
+}
+#Textarea{
+  font-size: 1.25em;
+  font-weight: bold;
+}
+
+#foot{
+  background-color: #262626;
+  color: white;
+}

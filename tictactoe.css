@@ -1,0 +1,198 @@
+h1, h2, h3, h4, h5, h6 {
+    font-family: 'Indie Flower' !important;
+}
+p, div {
+    font-family: 'Indie Flower' !important;
+}
+#jumb{
+  background-color: #262626
+
+}
+#spiral{
+
+}
+#name{
+  color: white
+
+}
+#subHead{
+  color: white
+
+}
+body{
+  /*background: gray;*/
+  background: url(https://static.pexels.com/photos/355887/pexels-photo-355887.jpeg);
+  background-repeat:no-repeat;
+}
+
+
+
+#homebut{
+  color: white;
+}
+
+
+#jumb2{
+  background-color: #262626
+
+}
+#line-chart{
+  background-color: #262626;
+
+
+}
+#contain{
+  height: 800x;
+
+  font-family: 'Indie Flower' cursive;
+
+}
+#statConsulLI{
+  font-size: 1.25em;
+  font-weight: bold;
+}
+
+#cplusplusLI{
+  font-size: 1.25em;
+  font-weight: bold;
+}
+
+#pythonWarLI{
+  font-size: 1.25em;
+  font-weight: bold;
+}
+
+#jsConnectLI{
+  font-size: 1.25em;
+  font-weight: bold;
+}
+
+#jsTicTacLI{
+  font-size: 1.25em;
+  font-weight: bold;
+}
+
+#about{
+  color: white
+}
+
+#leftTopCell{
+  height: 200px;
+  width:  200px;
+  text-align: center;
+  border-right: 10px solid white;
+  border-bottom: 10px solid white;
+  border-top: 10px solid #262626;
+  border-left: 10px solid #262626;
+  font-size: 150px;
+  color:white;
+
+}
+#middleTopCell{
+  height: 200px;
+  width:  200px;
+  text-align: center;
+  border-right: 10px solid white;
+  border-bottom: 10px solid white;
+  border-top: 10px solid #262626;
+  border-left: 10px solid white;
+  font-size: 150px;
+  color: white;
+
+}
+#rightTopCell{
+  height: 200px;
+  width:  200px;
+  text-align: center;
+  border-right: 10px solid #262626;
+  border-bottom: 10px solid white;
+  border-top: 10px solid #262626;
+  border-left: 10px solid white;
+  font-size: 150px;
+  color: white;
+
+}
+
+#leftCenterCell{
+  height: 200px;
+  width:  200px;
+  text-align: center;
+  border-right: 10px solid white;
+  border-bottom: 10px solid white;
+  border-top: 10px solid white;
+  border-left: 10px solid #262626;
+  font-size: 150px;
+  color: white;
+
+}
+#middleCenterCell{
+  height: 200px;
+  width:  200px;
+  text-align: center;
+  border: 10px solid white;
+  font-size: 150px;
+  color: white;
+
+}
+#rightCenterCell{
+  height: 200px;
+  width:  200px;
+  text-align: center;
+  border-right: 10px solid #262626;
+  border-bottom: 10px solid white;
+  border-top: 10px solid white;
+  border-left: 10px solid white;
+  font-size: 150px;
+  color: white;
+
+}
+
+#leftBottomCell{
+  height: 200px;
+  width:  200px;
+  text-align: center;
+  border-right: 10px solid white;
+  border-bottom: 10px solid #262626;
+  border-top: 10px solid white;
+  border-left: 10px solid #262626;
+  font-size: 150px;
+  color: white;
+
+}
+#middleBottomCell{
+  height: 200px;
+  width:  200px;
+  text-align: center;
+  border-right: 10px solid white;
+  border-bottom: 10px solid #262626;
+  border-top: 10px solid white;
+  border-left: 10px solid white;
+  font-size: 150px;
+  color: white;
+
+}
+#rightBottomCell{
+  height: 200px;
+  width:  200px;
+  text-align: center;
+  border-right: 10px solid #262626;
+  border-bottom: 10px solid #262626;
+  border-top: 10px solid white;
+  border-left: 10px solid white;
+  font-size: 150px;
+  color: white;
+
+}
+#h3SubHead{
+  color:white;
+}
+#h3SubHead2{
+  color:white;
+}
+#h4SubHead{
+  color:white;
+}
+#foot{
+  background-color: #262626;
+  color: white;
+}

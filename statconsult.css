@@ -1,0 +1,89 @@
+h1, h2, h3, h4, h5, h6 {
+    font-family: 'Indie Flower' !important;
+}
+p, div {
+    font-family: 'Indie Flower' !important;
+}
+#jumb{
+  background-color: #262626
+
+}
+#spiral{
+
+}
+#name{
+  color: white
+
+}
+#subHead{
+  color: white
+
+}
+body{
+  /*background: gray;*/
+  background: url(https://static.pexels.com/photos/355887/pexels-photo-355887.jpeg);
+  background-repeat:no-repeat;
+}
+
+
+
+#homebut{
+  color: white;
+}
+
+
+#jumb2{
+  background-color: #262626
+
+}
+#line-chart{
+  background-color: #262626;
+
+
+}
+#contain{
+  height: 800x;
+
+  font-family: 'Indie Flower' cursive;
+
+}
+#rCodeA{
+  color: ##0099ff
+}
+#statConsulLI{
+  font-size: 1.25em;
+  font-weight: bold;
+}
+
+#cplusplusLI{
+  font-size: 1.25em;
+  font-weight: bold;
+}
+
+#pythonWarLI{
+  font-size: 1.25em;
+  font-weight: bold;
+}
+
+#jsConnectLI{
+  font-size: 1.25em;
+  font-weight: bold;
+}
+
+#jsTicTacLI{
+  font-size: 1.25em;
+  font-weight: bold;
+}
+
+#about{
+  color: white
+}
+
+#peopleH3{
+  color: white;
+}
+
+#foot{
+  background-color: #262626;
+  color: white;
+}

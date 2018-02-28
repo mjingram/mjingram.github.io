@@ -1,0 +1,191 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>Tic Tac Toe</title>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+    <link rel="stylesheet" href="tictactoe.css">
+    <link href="https://fonts.googleapis.com/css?family=Indie+Flower" rel="stylesheet">
+
+
+  </head>
+  <body>
+    <div class="container">
+      <div class="jumbotron" align="center" id='jumb'>
+        <div class="row">
+
+        <div class="col-sm-3">
+          <img src="fractal-2880199_640.jpg" height="100%" width="100%" id="spiral">
+        </div>
+
+        <div class="col-lg-6">
+          <h1 id='name'>Michael Ingram</h1>
+          <h2 id='subHead'>Data Scientist</h2>
+        </div>
+        <div class="col-sm-3">
+          <img src="geometry.jpg" height="100%" width="100%" id="spiral">
+        </div>
+
+
+
+
+</div>
+      </div>
+
+    <nav class="navbar navbar-dark bg-dark navbar-inverse navbar-center" style="lineheight: 60px; height:60px; font-size: 150%">
+
+          <!-- Inside of a Container -->
+        <div class="container-fluid">
+
+          <!-- Brand and toggle get grouped for better mobile display -->
+          <!-- This is the actual code that create the "hamburger icon" -->
+          <!-- The data-target grabs ids to put into the icon -->
+          <div class="navbar-header">
+            <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1" aria-expanded="false">
+
+              <!--  Code for the hamburger icon-->
+              <span class="sr-only">Toggle navigation</span>
+              <span class="icon-bar"></span>
+              <span class="icon-bar"></span>
+              <span class="icon-bar"></span>
+            </button>
+
+            <a class="navbar-brand" href="index.html" id='homebut' style="font-size: 150%">Home</a>
+          </div>
+
+          <!-- Anything inside of collapse navbar-collapse goes into the "hamburger" -->
+          <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+            <ul class="nav navbar-nav">
+              <li id ='resbut'><a href="resume.html">Resume<span class="sr-only">(current)</span></a></li>
+              <li id='contactbut'><a href="contact.html">Contact</a></li>
+              <li class="dropdown">
+                <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Projects <span class="caret"></span></a>
+                <ul class="dropdown-menu">
+                  <li id="statConsulLI"><a href="statconsult.html">R: Statistical Consulting Project</a></li>
+                  <li id="cplusplusLI"><a href="cppalg.html">C++: Algorithms</a></li>
+                  <li id="pythonWarLI"><a href="pyWar.html">Python: War Card Game and the Probability of Winning</a></li>
+                  <li id="jsConnectLI"><a href="rboot.html">Bootstrapping in R "By Hand"</a></li>
+                  <li id="jsTicTacLI"><a href="tictactoe.html">JavaScript: Tic Tac Toe</a></li>
+                </ul>
+              </li>
+            </ul>
+
+            <!-- SEARCH BAR -->
+        <!--    <form class="navbar-form navbar-left" role="search">
+              <div class="form-group">
+                <input type="text" class="form-control" placeholder="Search">
+              </div>
+              <button type="submit" class="btn btn-default">Submit</button>
+            </form> -->
+
+
+            <!-- Stuff on the Right -->
+
+          <!--  <ul class="nav navbar-nav navbar-right">
+              <li><a href="#">Link</a></li>
+            </ul> -->
+
+          </div><!-- /.navbar-collapse -->
+        </div><!-- /.container-fluid -->
+      </nav>
+
+
+      <!-- OTHER STUFF ON THE PAGE -->
+
+
+
+
+
+
+
+        <div class="jumbotron" id='jumb2' align='center'>
+<div class="container" id='contain'>
+
+
+
+        <h2 id='about'>Welcome to Tic Tac Toe</h2>
+        <h3 id='h3SubHead'>Created using JavaScript</h3>
+        <h3 id='h3SubHead2'>Left Click for X or Right Click for O. In the case of a draw click clear board.</h3>
+        <button id='startButton' type="button" class="btn btn-primary btn-lg" name="button">Clear Board</button>
+        <table align='center'>
+          <tr>
+            <td id='leftTopCell'></td>
+            <td id='middleTopCell'></td>
+            <td id='rightTopCell'></td>
+          </tr>
+          <tr>
+            <td id='leftCenterCell'></td>
+            <td id='middleCenterCell'></td>
+            <td id='rightCenterCell'></td>
+          </tr>
+          <tr>
+            <td id='leftBottomCell'></td>
+            <td id='middleBottomCell'></td>
+            <td id='rightBottomCell'></td>
+          </tr>
+        </table>
+
+
+
+      </div>
+</div>
+
+
+
+<!--Footer-->
+      <footer class="page-footer font-small blue pt-4 mt-4" id='foot'>
+
+          <!--Footer Links-->
+          <div class="container-fluid text-center text-md-left">
+              <div class="row">
+
+                  <!--First column-->
+                  <div class="col-md-6">
+                      <h3 class="text-uppercase">INGRAM DATA SCIENCE</h3>
+                      <ul class="list-unstyled">
+                        <li>Email: mji45887@gmail.com</li>
+                        <li>(636)-484-0824</li>
+                      </ul>
+
+                  </div>
+                  <!--/.First column-->
+
+                  <!--Second column-->
+                  <div class="col-md-6">
+                      <h4 class="text-uppercase">Links</h4>
+                      <ul class="list-unstyled">
+                          <li><a href="https://github.com/mjingram">GitHub</a></li>
+                          <li><a href="https://www.linkedin.com/in/michael-ingram-42b66514a/">LinkedIn</a></li>
+                          <li><a href="https://www.facebook.com">Facebook</a></li>
+
+                      </ul>
+                  </div>
+                  <!--/.Second column-->
+              </div>
+          </div>
+          <!--/.Footer Links-->
+
+          <!--Copyright-->
+          <div class="footer-copyright py-3 text-center">
+              <div class="container-fluid">
+                  © 2018 Copyright: Michael Ingram
+
+              </div>
+          </div>
+          <!--/.Copyright-->
+
+      </footer>
+      <!--/.Footer-->
+
+      <!-- Need to have JQuery and Javascript for DropDown Actions to work -->
+
+      <script
+      src="http://code.jquery.com/jquery-3.1.1.js"
+      integrity="sha256-16cdPddA6VdVInumRGo6IbivbERE8p7CQR3HzTBuELA="
+      crossorigin="anonymous"></script>  <!-- Latest compiled and minified JavaScript -->
+      <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
+      <script src="tictactoe.js">
+
+      </script>
+  </body>
+</html>
