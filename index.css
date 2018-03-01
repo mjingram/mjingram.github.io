@@ -12,7 +12,8 @@ p, div {
 
 }
 #name{
-  color: white
+  color: white;
+  font-size: 75px;
 
 }
 #subHead{
@@ -80,18 +81,21 @@ body{
   color: white
 }
 #aboutPar{
-  color: white
+  color: white;
+  font-size: 1.5em;
 }
 
 #aboutPar2{
   color: white;
+  font-size: 1.5em;
 }
 #skills{
   color: white
 }
 
 #skillsPar{
-  color: white
+  color: white;
+  font-size: 1.25em;
 }
 #foot{
   background-color: #262626;

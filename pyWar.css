@@ -12,7 +12,8 @@ p, div {
 
 }
 #name{
-  color: white
+  color: white;
+  font-size: 75px;
 
 }
 #subHead{
@@ -77,19 +78,24 @@ body{
 }
 #p1{
   color:white;
+  font-size: 1.5em;
 }
 #p2{
   color: white;
+  font-size: 1.5em;
 }
 #p3{
   color: white;
+  font-size: 1.5em;
 }
 #p4{
   color: white;
+  font-size: 1.5em;
 }
 #p5{
   color:white;
-  
+  font-size: 1.5em;
+
 
 }
 #foot{

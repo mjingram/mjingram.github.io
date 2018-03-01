@@ -12,7 +12,8 @@ p, div {
 
 }
 #name{
-  color: white
+  color: white;
+  font-size: 75px;
 
 }
 #subHead{

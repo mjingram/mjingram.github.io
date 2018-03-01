@@ -12,7 +12,8 @@ p, div {
 
 }
 #name{
-  color: white
+  color: white;
+  font-size: 75px;
 
 }
 #subHead{
@@ -42,16 +43,18 @@ body{
 
 }
 #contain{
-  height: 2300px;
+  height: 2650px;
 
   font-family: 'Indie Flower' cursive;
 
 }
 #accessH3{
   color: white;
+  font-size: 1.5em;
 }
 #accessP{
   color: white;
+  font-size: 1.5em;
 }
 #constraintUL1{
   color: white;
@@ -70,21 +73,26 @@ body{
 }
 #cgratioP{
   color:white;
+  font-size: 1.5em;
 }
 #commonH3{
   color: white;
 }
 #commonP{
   color:white;
+  font-size: 1.5em;
 }
 #alg1{
   text-align: left;
+  background-color: white;
 }
 #alg2{
   text-align: left;
+  background-color: white;
 }
 #alg3{
   text-align: left;
+  background-color: white;
 }
 
 #statConsulLI{
