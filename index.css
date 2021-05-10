@@ -1,28 +1,31 @@
 h1, h2, h3, h4, h5, h6 {
-    font-family: 'Indie Flower' !important;
+    /*font-family: 'Indie Flower' !important;*/
+    font-family: 'PT Sans', sans-serif;
 }
 p, div {
-    font-family: 'Indie Flower' !important;
+    /*font-family: 'Indie Flower' !important;*/
+    font-family: 'PT Sans', sans-serif;
 }
 #jumb{
-  background-color: #262626
+  background-color: #262626;
 
 }
 #spiral{
 
 }
 #name{
-  color: white;
+  color: #7ccbec;
   font-size: 75px;
 
 }
 #subHead{
-  color: white
+  color: #7ccbec;
 
 }
 body{
   /*background: gray;*/
-  background: url(https://static.pexels.com/photos/355887/pexels-photo-355887.jpeg);
+  background-color: #1179ac;
+  /*background: url(https://static.pexels.com/photos/355887/pexels-photo-355887.jpeg;*/
   background-repeat:no-repeat;
 }
 
@@ -52,13 +55,13 @@ body{
 }
 
 #skillsUL{
-  color: white;
+  color: #7ccbec;
   font-size: 1.5em;
   text-align: left;
 }
 
 #homebut{
-  color: white;
+  color: #7ccbec;
 }
 
 
@@ -78,26 +81,31 @@ body{
 
 }
 #about{
-  color: white
+  color: #7ccbec;
 }
 #aboutPar{
-  color: white;
+  color: #7ccbec;
   font-size: 1.5em;
 }
 
 #aboutPar2{
-  color: white;
+  color: #7ccbec;
+  font-size: 1.5em;
+}
+
+#aboutPar3{
+  color: #7ccbec;
   font-size: 1.5em;
 }
 #skills{
-  color: white
+  color: #7ccbec;
 }
 
 #skillsPar{
-  color: white;
+  color: #7ccbec;
   font-size: 1.25em;
 }
 #foot{
   background-color: #262626;
-  color: white;
+  color: #7ccbec;
 }

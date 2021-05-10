@@ -1,8 +1,10 @@
 h1, h2, h3, h4, h5, h6 {
-    font-family: 'Indie Flower' !important;
+    /*font-family: 'Indie Flower' !important;*/
+    font-family: 'PT Sans', sans-serif;
 }
 p, div {
-    font-family: 'Indie Flower' !important;
+    /*font-family: 'Indie Flower' !important;*/
+    font-family: 'PT Sans', sans-serif;
 }
 #jumb{
   background-color: #262626
@@ -12,24 +14,25 @@ p, div {
 
 }
 #name{
-  color: white;
+  color: #7ccbec;
   font-size: 75px;
 
 }
 #subHead{
-  color: white
+  color: #7ccbec;
 
 }
 body{
   /*background: gray;*/
-  background: url(https://static.pexels.com/photos/355887/pexels-photo-355887.jpeg);
-  background-repeat:no-repeat;
+  /*background: url(https://static.pexels.com/photos/355887/pexels-photo-355887.jpeg);
+  background-repeat:no-repeat;*/
+  background-color: #1179ac;
 }
 
 
 
 #homebut{
-  color: white;
+  color: #7ccbec;
 }
 
 
@@ -49,17 +52,17 @@ body{
 
 }
 #about{
-  color: white
+  color: #7ccbec;
 }
 #emailH2{
-  color: white
+  color: #7ccbec;
 }
 
 #phoneH2{
-  color: white;
+  color: #7ccbec;
 }
 #locationH2{
-  color: white
+  color: #7ccbec;
 }
 #statConsulLI{
   font-size: 1.25em;
@@ -87,7 +90,7 @@ body{
 }
 
 #nameLabel{
-  color: white;
+  color: #7ccbec;
   font-size: 2em;
 
 
@@ -99,7 +102,7 @@ body{
 }
 
 #emailLabel{
-  color: white;
+  color: #7ccbec;
   font-size: 2em;
 }
 
@@ -109,7 +112,7 @@ body{
   height: 50px;
 }
 #messageLabel{
-  color:white;
+  color: #7ccbec;
   font-size: 2em;
 }
 #Textarea{
@@ -119,5 +122,5 @@ body{
 
 #foot{
   background-color: #262626;
-  color: white;
+  color: #7ccbec;
 }
